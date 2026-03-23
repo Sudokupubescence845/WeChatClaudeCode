@@ -2,6 +2,7 @@ export default {
   baseLocale: 'zh-CN',
   locales: ['en', 'de', 'pt', 'es', 'fr', 'zh-TW', 'it', 'ko', 'ja', 'ru', 'ar'],
   localePath: 'src/i18n/locales',
+  singleFileMode: true,
   openAIApiKey: process.env.OPENAI_API_KEY,
   openAIApiModel: 'gpt-4o-mini',
   openAIApiUrl: 'https://api2.acedata.cloud',
